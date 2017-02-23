@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/jayar29/Desktop/apache poi jars/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jayar29/Desktop/apache poi jars/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jayar29/Desktop/apache poi jars/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jayar29/Desktop/apache poi jars/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jayar29/Desktop/apache poi jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jayar29/Desktop/apache poi jars/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jayar29/Desktop/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jayar29/Downloads/xlsx-streamer-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jayar29/Desktop/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jayar29/Desktop/apache poi jars/xerces-2_6_2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
